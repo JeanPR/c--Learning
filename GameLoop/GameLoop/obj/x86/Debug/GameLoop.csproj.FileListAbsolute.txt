@@ -1,0 +1,22 @@
+C:\Users\Jean\AppData\Local\Temporary Projects\GameLoop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jean\AppData\Local\Temporary Projects\GameLoop\obj\x86\Debug\GameLoop.Properties.Resources.resources
+C:\Users\Jean\AppData\Local\Temporary Projects\GameLoop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jean\AppData\Local\Temporary Projects\GameLoop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jean\AppData\Local\Temporary Projects\GameLoop\bin\Debug\GameLoop.exe
+C:\Users\Jean\AppData\Local\Temporary Projects\GameLoop\bin\Debug\GameLoop.pdb
+C:\Users\Jean\AppData\Local\Temporary Projects\GameLoop\bin\Debug\nunit.framework.dll
+C:\Users\Jean\AppData\Local\Temporary Projects\GameLoop\bin\Debug\nunit.framework.xml
+C:\Users\Jean\AppData\Local\Temporary Projects\GameLoop\obj\x86\Debug\GameLoop.exe
+C:\Users\Jean\AppData\Local\Temporary Projects\GameLoop\obj\x86\Debug\GameLoop.pdb
+C:\Users\Jean\AppData\Local\Temporary Projects\GameLoop\obj\x86\Debug\GameLoop.Form1.resources
+C:\Users\Jean\documents\visual studio 2010\Projects\GameLoop\GameLoop\obj\x86\Debug\GameLoop.exe
+C:\Users\Jean\documents\visual studio 2010\Projects\GameLoop\GameLoop\obj\x86\Debug\GameLoop.pdb
+C:\Users\Jean\documents\visual studio 2010\Projects\GameLoop\GameLoop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jean\documents\visual studio 2010\Projects\GameLoop\GameLoop\obj\x86\Debug\GameLoop.Form1.resources
+C:\Users\Jean\documents\visual studio 2010\Projects\GameLoop\GameLoop\obj\x86\Debug\GameLoop.Properties.Resources.resources
+C:\Users\Jean\documents\visual studio 2010\Projects\GameLoop\GameLoop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jean\documents\visual studio 2010\Projects\GameLoop\GameLoop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jean\documents\visual studio 2010\Projects\GameLoop\GameLoop\bin\Debug\GameLoop.exe
+C:\Users\Jean\documents\visual studio 2010\Projects\GameLoop\GameLoop\bin\Debug\GameLoop.pdb
+C:\Users\Jean\documents\visual studio 2010\Projects\GameLoop\GameLoop\bin\Debug\nunit.framework.dll
+C:\Users\Jean\documents\visual studio 2010\Projects\GameLoop\GameLoop\bin\Debug\nunit.framework.xml
